@@ -1,1 +1,1 @@
-# ZendeskCodingChallenge
+This is a project for the Zendesk Coding Challenge.
